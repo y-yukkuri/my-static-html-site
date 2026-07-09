@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4fd7b2c3-ea5a-46ff-aa85-5b214602b360/resourceGroups/appsvc_linux_japaneast/providers/Microsoft.Web/sites/CloudL11Report",
+    "appService.deploySubpath": "myExpressApp"
+}
